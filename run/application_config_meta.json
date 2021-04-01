@@ -1,0 +1,317 @@
+{
+  "sequelize": {
+    "dialect": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\config\\config.default.js",
+    "host": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\config\\config.default.js",
+    "database": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\config\\config.default.js",
+    "port": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\config\\config.default.js",
+    "username": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\config\\config.default.js",
+    "password": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\config\\config.default.js",
+    "timezone": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\config\\config.default.js",
+    "pool": {
+      "max": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\config\\config.default.js",
+      "min": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\config\\config.default.js",
+      "idle": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\config\\config.default.js"
+    },
+    "logging": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\config\\config.default.js"
+  },
+  "cors": {
+    "origin": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\config\\config.default.js",
+    "allowMethods": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\config\\config.default.js"
+  },
+  "keys": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\config\\config.default.js",
+  "middleware": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\config\\config.default.js",
+  "session": {
+    "maxAge": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-session\\config\\config.default.js",
+    "logValue": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js",
+      "type": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+  "name": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "version": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "description": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "private": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "egg": {
+      "declarations": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "egg": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "egg-sequelize": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "pg": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "stop": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "dev": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "debug": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "test": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "cov": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "lint": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "ci": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "autod": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "url": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "license": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "strict": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "depth": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "env": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "level": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "logging": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "port": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\node_modules\\egg\\config\\config.default.js"
+}

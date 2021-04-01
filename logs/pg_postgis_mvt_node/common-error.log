@@ -1,0 +1,8 @@
+2021-04-01 10:43:12,031 ERROR 17848 nodejs.ClusterClientNoResponseError: client no response in 73439ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (E:\api框架及技术文档\postgis\sample\pg_mvt_demo-master\pg_postgis_mvt_node\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 17848
+hostname: PC-20190330EPJH
+

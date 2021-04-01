@@ -126,3 +126,17 @@
 2021-04-01 10:44:44,745 INFO 17752 [egg:core] dump config after load, 9ms
 2021-04-01 10:44:44,785 INFO 17752 [egg-watcher:application] watcher start success
 2021-04-01 10:44:49,082 INFO 17752 [egg:core] dump config after ready, 6ms
+2021-04-01 14:47:00,701 INFO 11540 [egg:logger] init all loggers with options: {"dir":"E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\logs\\pg_postgis_mvt_node","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pg_postgis_mvt_node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-04-01 14:47:00,733 INFO 11540 [egg-multipart] stream mode enable
+2021-04-01 14:47:01,171 INFO 11540 [egg-static] starting static serve /public/ -> E:\codeSpace\postgis\pg_postgis_mvt_egg\app\public
+2021-04-01 14:47:01,174 INFO 11540 [egg-security] use csrf middleware
+2021-04-01 14:47:01,175 INFO 11540 [egg-security] use methodnoallow middleware
+2021-04-01 14:47:01,176 INFO 11540 [egg-security] use noopen middleware
+2021-04-01 14:47:01,177 INFO 11540 [egg-security] use nosniff middleware
+2021-04-01 14:47:01,177 INFO 11540 [egg-security] use xssProtection middleware
+2021-04-01 14:47:01,178 INFO 11540 [egg-security] use xframe middleware
+2021-04-01 14:47:01,179 INFO 11540 [egg-security] use dta middleware
+2021-04-01 14:47:01,179 INFO 11540 [egg-security] compose 7 middlewares into one security middleware
+2021-04-01 14:47:01,194 INFO 11540 [egg:core] dump config after load, 10ms
+2021-04-01 14:47:01,229 INFO 11540 [egg-watcher:application] watcher start success
+2021-04-01 14:47:01,409 INFO 11540 [egg:core] dump config after ready, 9ms

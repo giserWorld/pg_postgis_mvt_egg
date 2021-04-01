@@ -34,3 +34,9 @@
 2021-04-01 10:44:43,275 INFO 17752 [egg-schedule]: register schedule E:\api框架及技术文档\postgis\sample\pg_mvt_demo-master\pg_postgis_mvt_node\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
 2021-04-01 10:44:43,275 INFO 17752 [egg-schedule]: register schedule E:\api框架及技术文档\postgis\sample\pg_mvt_demo-master\pg_postgis_mvt_node\node_modules\egg-logrotator\app\schedule\clean_log.js
 2021-04-01 10:44:43,275 INFO 17752 [egg-schedule]: register schedule E:\api框架及技术文档\postgis\sample\pg_mvt_demo-master\pg_postgis_mvt_node\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-04-01 14:47:01,417 INFO 6244 [Timer] E:\codeSpace\postgis\pg_postgis_mvt_egg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 49378585ms at 2021-04-02 04:30:00.002
+2021-04-01 14:47:01,418 INFO 6244 [Timer] E:\codeSpace\postgis\pg_postgis_mvt_egg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 33178583ms at 2021-04-02 00:00:00.001
+2021-04-01 14:47:01,418 INFO 6244 [Timer] E:\codeSpace\postgis\pg_postgis_mvt_egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 33179582ms at 2021-04-02 00:00:01.000
+2021-04-01 14:47:00,732 INFO 11540 [egg-schedule]: register schedule E:\codeSpace\postgis\pg_postgis_mvt_egg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-04-01 14:47:00,732 INFO 11540 [egg-schedule]: register schedule E:\codeSpace\postgis\pg_postgis_mvt_egg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-04-01 14:47:00,732 INFO 11540 [egg-schedule]: register schedule E:\codeSpace\postgis\pg_postgis_mvt_egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js

@@ -139,3 +139,23 @@ hostname: PC-20190330EPJH
 2021-04-01 10:44:36,047 INFO 17848 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"E:\\api框架及技术文档\\postgis\\sample\\pg_mvt_demo-master\\pg_postgis_mvt_node\\app\\service\\mvt.js","stat":{"dev":2681813570,"mode":33206,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":1688849861108293,"size":2834,"blocks":8,"atimeMs":1617242744856,"mtimeMs":1617245076039,"ctimeMs":1617245076039,"birthtimeMs":1617242744856,"atime":"2021-04-01T02:05:44.856Z","mtime":"2021-04-01T02:44:36.039Z","ctime":"2021-04-01T02:44:36.039Z","birthtime":"2021-04-01T02:05:44.856Z"},"remove":false,"isDirectory":false,"isFile":true}
 2021-04-01 10:44:38,492 WARN 17848 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
 2021-04-01 10:44:49,665 WARN 17848 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-04-01 14:15:01,090 INFO 17100 [egg:logger] init all loggers with options: {"dir":"E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\logs\\pg_postgis_mvt_node","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pg_postgis_mvt_node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-04-01 14:15:01,365 INFO 17100 [egg:core] dump config after load, 4ms
+2021-04-01 14:15:01,425 INFO 17100 [egg-watcher] Start watching: ["E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\app","E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\config","E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\mocks","E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\mocks_proxy","E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\app.js"]
+2021-04-01 14:15:01,425 INFO 17100 [egg-watcher] Start watching: "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\app"
+2021-04-01 14:15:01,426 INFO 17100 [egg-watcher] Start watching: "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\config"
+2021-04-01 14:15:01,426 INFO 17100 [egg-watcher] Start watching: "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\mocks"
+2021-04-01 14:15:01,426 INFO 17100 [egg-watcher] Start watching: "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\mocks_proxy"
+2021-04-01 14:15:01,426 INFO 17100 [egg-watcher] Start watching: "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\app.js"
+2021-04-01 14:15:01,427 INFO 17100 [egg-watcher:agent] watcher start success
+2021-04-01 14:15:01,620 INFO 17100 [egg:core] dump config after ready, 6ms
+2021-04-01 14:46:58,673 INFO 6244 [egg:logger] init all loggers with options: {"dir":"E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\logs\\pg_postgis_mvt_node","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pg_postgis_mvt_node-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-04-01 14:46:58,990 INFO 6244 [egg:core] dump config after load, 6ms
+2021-04-01 14:46:59,060 INFO 6244 [egg-watcher] Start watching: ["E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\app","E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\config","E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\mocks","E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\mocks_proxy","E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\app.js"]
+2021-04-01 14:46:59,060 INFO 6244 [egg-watcher] Start watching: "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\app"
+2021-04-01 14:46:59,061 INFO 6244 [egg-watcher] Start watching: "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\config"
+2021-04-01 14:46:59,061 INFO 6244 [egg-watcher] Start watching: "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\mocks"
+2021-04-01 14:46:59,061 INFO 6244 [egg-watcher] Start watching: "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\mocks_proxy"
+2021-04-01 14:46:59,061 INFO 6244 [egg-watcher] Start watching: "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\app.js"
+2021-04-01 14:46:59,061 INFO 6244 [egg-watcher:agent] watcher start success
+2021-04-01 14:46:59,239 INFO 6244 [egg:core] dump config after ready, 8ms

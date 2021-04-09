@@ -3,6 +3,8 @@
 const Controller = require('egg').Controller;
 
 class MvtController extends Controller {
+    
+    //解析url的请求参数
     async getMvt() {
         const { ctx } = this
         const { tableName, x, y, z } = ctx.params
@@ -13,7 +15,7 @@ class MvtController extends Controller {
         }
         ctx.set('Content-Type', 'application/x-protobuf');
         ctx.body = result.data;
-    }
+    }//e
 }
 
 module.exports = MvtController;

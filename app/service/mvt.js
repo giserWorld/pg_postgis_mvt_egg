@@ -3,11 +3,13 @@
 const Service = require('egg').Service;
 const util = require('../../util')
 class MvtService extends Service {
-    async getMvt(tableName, x, y, z) {
-        const result = {
-            data: null,
-            code: 1,
-            msg: "查询成功"
+
+    //根据参数从数据库中查询数据
+    async getMvt(tableName,x,y,z){
+        const result={
+            data:null,
+            code:1,
+            msg:"查询成功"
         }
         x = parseInt(x);
         y = parseInt(y);
@@ -77,7 +79,7 @@ class MvtService extends Service {
             result.code = 0;
         }
         return result;
-    }
+    }//e
 }
 
 module.exports = MvtService;

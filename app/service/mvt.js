@@ -51,20 +51,32 @@ class MvtService extends Service {
         ) AS P
         `
 
-
-        let sql2 = ` SELECT
+        //lineString
+        let sql2_bf = ` SELECT
         ST_AsMVT ( P,'line', 4096, 'geom' ) AS "mvt" FROM	(SELECT 
           ST_AsMVTGeom (ST_Transform (geom, 3857 ),	ST_Transform (ST_MakeEnvelope
           ( ${xmin},${ymin}, ${xmax},${ymax}, 4326 ),3857),
           4096,	64,TRUE ) geom FROM "data_10001001538"  ) AS P `
-          let sql3 = ` SELECT
+        
+        //polygon
+        let sql3_bf = ` SELECT
         ST_AsMVT ( P,'polygon', 4096, 'geom' ) AS "mvt" FROM	(SELECT 
           ST_AsMVTGeom (ST_Transform (st_simplify(geom,0.0), 3857 ),	ST_Transform (ST_MakeEnvelope
           ( ${xmin},${ymin}, ${xmax},${ymax}, 4326 ),3857),
           4096,	64,TRUE ) geom FROM "data_10001001532"  ) AS P `
 
+        let sql3 =
+        ` 
+        select  ST_AsMVT(P,'polygon',4096,'geom') AS "mvt"
+        from
+        (
+            select  ST_AsMVTGeom(ST_Transform(st_simplify(geom,0.0),3857),ST_Transform(ST_MakeEnvelope (${xmin},${ymin},${xmax},${ymax},4326),3857),4096,64,TRUE) geom
+            from "${tableName}" 
+        ) AS P
+          `
 
-        let SQL = `SELECT (${sql1}) AS mvt`;
+
+        let SQL = `SELECT (${sql3}) AS mvt`;
         console.log("sql:",SQL);
         const res = await this.ctx.model.query(SQL).catch(err => {
             console.error(err)

@@ -76,7 +76,7 @@ class MvtService extends Service {
           `
 
 
-        let SQL = `SELECT (${sql3}) AS mvt`;
+        let SQL = `SELECT (${sql1}) AS mvt`;
         console.log("sql:",SQL);
         const res = await this.ctx.model.query(SQL).catch(err => {
             console.error(err)

@@ -46,7 +46,7 @@ class MvtService extends Service {
         SELECT  ST_AsMVT(P,'points',4096,'geom') AS "mvt"
         FROM
         (
-            SELECT  ST_AsMVTGeom(ST_Transform(geom,3857),ST_Transform(ST_MakeEnvelope (${xmin},${ymin},${xmax},${ymax},4326),3857),4096,64,TRUE) geom
+            SELECT  id,ST_AsMVTGeom(ST_Transform(geom,3857),ST_Transform(ST_MakeEnvelope (${xmin},${ymin},${xmax},${ymax},4326),3857),4096,64,TRUE) geom
             FROM "${tableName}" 
         ) AS P
         `

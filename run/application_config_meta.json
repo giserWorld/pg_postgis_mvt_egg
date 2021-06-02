@@ -1,317 +1,317 @@
 {
   "sequelize": {
-    "dialect": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\config\\config.default.js",
-    "host": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\config\\config.default.js",
-    "database": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\config\\config.default.js",
-    "port": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\config\\config.default.js",
-    "username": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\config\\config.default.js",
-    "password": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\config\\config.default.js",
-    "timezone": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\config\\config.default.js",
+    "dialect": "E:\\codeSpace\\pg_postgis_mvt_egg\\config\\config.default.js",
+    "host": "E:\\codeSpace\\pg_postgis_mvt_egg\\config\\config.default.js",
+    "database": "E:\\codeSpace\\pg_postgis_mvt_egg\\config\\config.default.js",
+    "port": "E:\\codeSpace\\pg_postgis_mvt_egg\\config\\config.default.js",
+    "username": "E:\\codeSpace\\pg_postgis_mvt_egg\\config\\config.default.js",
+    "password": "E:\\codeSpace\\pg_postgis_mvt_egg\\config\\config.default.js",
+    "timezone": "E:\\codeSpace\\pg_postgis_mvt_egg\\config\\config.default.js",
     "pool": {
-      "max": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\config\\config.default.js",
-      "min": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\config\\config.default.js",
-      "idle": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\config\\config.default.js"
+      "max": "E:\\codeSpace\\pg_postgis_mvt_egg\\config\\config.default.js",
+      "min": "E:\\codeSpace\\pg_postgis_mvt_egg\\config\\config.default.js",
+      "idle": "E:\\codeSpace\\pg_postgis_mvt_egg\\config\\config.default.js"
     },
-    "logging": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\config\\config.default.js"
+    "logging": "E:\\codeSpace\\pg_postgis_mvt_egg\\config\\config.default.js"
   },
   "cors": {
-    "origin": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\config\\config.default.js",
-    "allowMethods": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\config\\config.default.js"
+    "origin": "E:\\codeSpace\\pg_postgis_mvt_egg\\config\\config.default.js",
+    "allowMethods": "E:\\codeSpace\\pg_postgis_mvt_egg\\config\\config.default.js"
   },
-  "keys": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\config\\config.default.js",
-  "middleware": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\config\\config.default.js",
+  "keys": "E:\\codeSpace\\pg_postgis_mvt_egg\\config\\config.default.js",
+  "middleware": "E:\\codeSpace\\pg_postgis_mvt_egg\\config\\config.default.js",
   "session": {
-    "maxAge": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-session\\config\\config.default.js",
-    "key": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-session\\config\\config.default.js",
-    "httpOnly": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-session\\config\\config.default.js",
-    "encrypt": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-session\\config\\config.default.js",
-    "logValue": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-session\\config\\config.default.js"
+    "maxAge": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-session\\config\\config.default.js",
+    "logValue": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-session\\config\\config.default.js"
   },
   "security": {
-    "domainWhiteList": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
-    "protocolWhiteList": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
-    "defaultMiddleware": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
+    "domainWhiteList": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
     "csrf": {
-      "enable": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
-      "type": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
-      "ignoreJSON": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
-      "useSession": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
-      "cookieName": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
-      "sessionName": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
-      "headerName": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
-      "bodyName": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
-      "queryName": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
-      "refererWhiteList": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
+      "type": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
     },
     "xframe": {
-      "enable": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
     },
     "hsts": {
-      "enable": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.local.js",
-      "maxAge": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
-      "includeSubdomains": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
     },
     "dta": {
-      "enable": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
     },
     "methodnoallow": {
-      "enable": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
     },
     "noopen": {
-      "enable": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
     },
     "nosniff": {
-      "enable": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
     },
     "referrerPolicy": {
-      "enable": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
     },
     "xssProtection": {
-      "enable": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
     },
     "csp": {
-      "enable": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
-      "policy": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
-      "checkAddress": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
+      "ipBlackList": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
     }
   },
   "helper": {
-    "shtml": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
+    "shtml": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-security\\config\\config.default.js"
   },
   "jsonp": {
-    "limit": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-jsonp\\config\\config.default.js",
-    "callback": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-jsonp\\config\\config.default.js",
-    "csrf": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-jsonp\\config\\config.default.js"
+    "limit": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-jsonp\\config\\config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-onerror\\config\\config.default.js",
-    "appErrorFilter": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-onerror\\config\\config.default.js",
-    "templatePath": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-onerror\\config\\config.default.js"
+    "errorPageUrl": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-onerror\\config\\config.default.js"
   },
   "i18n": {
-    "defaultLocale": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-i18n\\config\\config.default.js",
-    "dirs": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-i18n\\config\\config.default.js",
-    "queryField": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieField": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieDomain": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieMaxAge": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-i18n\\config\\config.default.js"
+    "defaultLocale": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-i18n\\config\\config.default.js"
   },
   "watcher": {
-    "type": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-watcher\\config\\config.local.js",
+    "type": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-watcher\\config\\config.local.js",
     "eventSources": {
-      "default": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-watcher\\config\\config.default.js",
-      "development": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-watcher\\config\\config.default.js"
+      "default": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-watcher\\config\\config.default.js"
     }
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-schedule\\config\\config.default.js",
-      "file": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-schedule\\config\\config.default.js"
+      "consoleLevel": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-schedule\\config\\config.default.js"
     }
   },
   "schedule": {
-    "directory": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-schedule\\config\\config.default.js"
+    "directory": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-schedule\\config\\config.default.js"
   },
   "multipart": {
-    "mode": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
-    "autoFields": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
-    "defaultCharset": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fieldNameSize": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fieldSize": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fields": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fileSize": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
-    "files": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fileExtensions": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
-    "whitelist": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
-    "tmpdir": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "mode": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js",
     "cleanSchedule": {
-      "cron": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js"
+      "cron": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-multipart\\config\\config.default.js"
     }
   },
   "development": {
-    "watchDirs": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-development\\config\\config.default.js",
-    "ignoreDirs": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-development\\config\\config.default.js",
-    "fastReady": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-development\\config\\config.default.js",
-    "reloadOnDebug": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-development\\config\\config.default.js",
-    "overrideDefault": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-development\\config\\config.default.js",
-    "overrideIgnore": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-development\\config\\config.default.js"
+    "watchDirs": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-development\\config\\config.default.js"
   },
   "logrotator": {
-    "filesRotateByHour": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "hourDelimiter": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "filesRotateBySize": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxFileSize": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxFiles": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "rotateDuration": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxDays": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-logrotator\\config\\config.default.js"
+    "filesRotateByHour": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-logrotator\\config\\config.default.js"
   },
   "static": {
-    "prefix": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-static\\config\\config.default.js",
-    "dir": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-static\\config\\config.default.js",
-    "dynamic": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-static\\config\\config.default.js",
-    "preload": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-static\\config\\config.default.js",
-    "buffer": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-static\\config\\config.default.js",
-    "maxFiles": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-static\\config\\config.default.js"
+    "prefix": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-static\\config\\config.default.js"
   },
   "view": {
-    "root": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-view\\config\\config.default.js",
-    "cache": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-view\\config\\config.local.js",
-    "defaultExtension": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-view\\config\\config.default.js",
-    "defaultViewEngine": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-view\\config\\config.default.js",
-    "mapping": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg-view\\config\\config.default.js"
+    "root": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg-view\\config\\config.default.js"
   },
-  "env": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-  "name": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-  "cookies": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-  "proxy": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-  "maxIpsCount": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-  "maxProxyCount": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-  "protocolHeaders": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-  "ipHeaders": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-  "hostHeaders": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+  "env": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+  "name": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
   "pkg": {
-    "name": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "version": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "description": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "private": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "name": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "version": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "description": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "private": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
     "egg": {
-      "declarations": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+      "declarations": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
     },
     "dependencies": {
-      "egg": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "egg-cors": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "egg-scripts": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "egg-sequelize": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "pg": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+      "egg": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-sequelize": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "pg": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
     },
     "devDependencies": {
-      "autod": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "autod-egg": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "egg-bin": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "egg-ci": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "egg-mock": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "eslint": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "eslint-config-egg": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+      "autod": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
     },
     "engines": {
-      "node": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+      "node": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
     },
     "scripts": {
-      "start": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "stop": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "dev": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "debug": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "test": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "test-local": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "cov": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "lint": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "ci": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "autod": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+      "start": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "stop": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "dev": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "debug": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "test": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "cov": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "lint": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "ci": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "autod": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
     },
     "ci": {
-      "version": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+      "version": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
     },
     "repository": {
-      "type": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "url": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+      "type": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "url": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
     },
-    "author": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "license": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+    "author": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "license": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
   },
-  "baseDir": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-  "HOME": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-  "rundir": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+  "baseDir": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
   "dump": {
-    "ignore": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+    "ignore": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "notFound": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "sitefile": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "middlewares": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "httpClient": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+    "bodyparser": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
   },
   "notfound": {
-    "pageUrl": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+    "pageUrl": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+    "/favicon.ico": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
   },
   "bodyParser": {
-    "enable": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "encoding": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "formLimit": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "jsonLimit": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "textLimit": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "strict": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "enable": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "strict": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
     "queryString": {
-      "arrayLimit": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "depth": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "parameterLimit": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+      "arrayLimit": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "depth": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
     },
-    "onerror": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+    "onerror": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
   },
   "logger": {
-    "dir": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "encoding": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "env": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "level": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "consoleLevel": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "disableConsoleAfterReady": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "outputJSON": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "buffer": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "appLogName": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "coreLogName": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "agentLogName": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "errorLogName": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "dir": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "env": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "level": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
     "coreLogger": {
-      "consoleLevel": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.local.js"
+      "consoleLevel": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.local.js"
     },
-    "allowDebugAtProd": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+    "allowDebugAtProd": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "dnsCacheLookupInterval": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "dnsCacheMaxLength": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "enableDNSCache": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
     "request": {
-      "timeout": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+      "timeout": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "freeSocketTimeout": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "maxSockets": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "maxFreeSockets": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+      "keepAlive": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "freeSocketTimeout": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "maxSockets": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "maxFreeSockets": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+      "keepAlive": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
     }
   },
   "meta": {
-    "enable": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "logging": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+    "enable": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "logging": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
   },
-  "coreMiddleware": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-  "workerStartTimeout": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-  "serverTimeout": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+  "coreMiddleware": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
   "cluster": {
     "listen": {
-      "path": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "port": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-      "hostname": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+      "path": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "port": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
     }
   },
   "clusterClient": {
-    "maxWaitTime": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
-    "responseTimeout": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+    "maxWaitTime": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
   },
-  "onClientError": "E:\\codeSpace\\postgis\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
+  "onClientError": "E:\\codeSpace\\pg_postgis_mvt_egg\\node_modules\\egg\\config\\config.default.js"
 }

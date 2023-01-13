@@ -144,7 +144,7 @@
       "files": 10,
       "fileExtensions": [],
       "whitelist": null,
-      "tmpdir": "C:\\Users\\asus\\AppData\\Local\\Temp\\egg-multipart-tmp\\pg_postgis_mvt_node",
+      "tmpdir": "C:\\Users\\wxt\\AppData\\Local\\Temp\\egg-multipart-tmp\\pg_postgis_mvt_node",
       "cleanSchedule": {
         "cron": "0 30 4 * * *"
       }
@@ -194,7 +194,7 @@
         "min": 0,
         "idle": 10000
       },
-      "logging": "<Function bound consoleCall>"
+      "logging": "<Function log>"
     },
     "cors": {
       "origin": "*",
@@ -260,7 +260,7 @@
       "license": "MIT"
     },
     "baseDir": "E:\\codeSpace\\pg_postgis_mvt_egg",
-    "HOME": "C:\\Users\\asus",
+    "HOME": "C:\\Users\\wxt",
     "rundir": "E:\\codeSpace\\pg_postgis_mvt_egg\\run",
     "dump": {
       "ignore": "<Set>"
